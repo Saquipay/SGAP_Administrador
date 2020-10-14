@@ -6,13 +6,15 @@ import { AppComponent } from './app.component';
 import { CabeceraComponent } from './cabecera/cabecera.component';
 import { CreateConsumidorComponent } from './create-consumidor/create-consumidor.component';
 import { FooterComponent } from './footer/footer.component';
+import { CreatemedidorComponent } from './createmedidor/createmedidor.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     CabeceraComponent,
     CreateConsumidorComponent,
-    FooterComponent
+    FooterComponent,
+    CreatemedidorComponent
   ],
   imports: [
     BrowserModule,
