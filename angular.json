@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "sgapcli"
+    }
+  },
+  "defaultProject": "sgapcli",
+  "cli": {
+    "analytics": false
+  }
 }
