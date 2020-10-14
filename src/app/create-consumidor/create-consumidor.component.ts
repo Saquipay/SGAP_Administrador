@@ -6,10 +6,15 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./create-consumidor.component.css']
 })
 export class CreateConsumidorComponent implements OnInit {
+  nombre:String="";
+  apellido:String="";
+  email:String="";
 
   constructor() { }
 
-  ngOnInit(): void {
+  ngOnInit(){
   }
+  onSubmit() {
 
+  }
 }
