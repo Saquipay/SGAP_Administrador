@@ -11,5 +11,8 @@ export class CreatemedidorComponent implements OnInit {
 
   ngOnInit(): void {
   }
+  onSubmit(){
+    
+  }
 
 }

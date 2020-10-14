@@ -11,15 +11,9 @@ import { CreatemedidorComponent } from './createmedidor/createmedidor.component'
 @NgModule({
   declarations: [
     AppComponent,
-<<<<<<< HEAD
-    CabeceraComponent,
-    CreateConsumidorComponent,
-    FooterComponent,
-    CreatemedidorComponent
-=======
     CreateConsumidorComponent
->>>>>>> 7856839d4ad1d522ee269ba1d1d5f7fb3ea2d285
   ],
+  
   imports: [
     BrowserModule,
     AppRoutingModule
